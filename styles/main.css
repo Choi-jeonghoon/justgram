@@ -1,0 +1,67 @@
+.logo-img {
+  width: 25px;
+  height: 25px;
+}
+
+.nav-bar {
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+  padding: 7px;
+}
+
+.input-search {
+  width: 200px;
+  height: 12px;
+  padding: 7px;
+  box-sizing: content-box;
+  background-color: #fafafa;
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+  background-size: 14px;
+  background-repeat: no-repeat;
+  background-position: 38% center;
+  text-indent: 10%;
+  font-size: 14px;
+}
+.title {
+  text-transform: capitalize;
+  font-size: 25px;
+  font-family: "Nanum Brush Script", cursive;
+  margin-left: 10px;
+}
+
+.nav-right span {
+  margin-left: 20px;
+}
+
+.contents {
+  border: 1px solid black;
+}
+.feed_gtoup {
+  border: 1px solid black;
+}
+.feed_container {
+  border: 1px solid black;
+}
+.feed_header {
+  border: 1px solid black;
+}
+
+.feed_image {
+  border: 1px solid black;
+}
+
+.feed_contents {
+  border: 1px solid black;
+}
+
+.button_group {
+  border: 1px solid black;
+}
+
+.like_sentence {
+  border: 1px solid black;
+}

@@ -85,50 +85,6 @@ form button:active {
   transform: scale(0.995);
 }
 
-form .option {
-  color: #5a5a5a;
-  margin: 10px 0;
-  font-weight: bold;
-  position: relative;
-}
-
-form .option::before {
-  position: absolute;
-  content: "";
-  width: 37%;
-  height: 2px;
-  background: #b6b6b6;
-  left: 0;
-  top: 50%;
-}
-
-form .option::after {
-  position: absolute;
-  content: "";
-  width: 37%;
-  height: 2px;
-  background: #b6b6b6;
-  right: 0;
-  top: 50%;
-}
-
-.fblink {
-  margin-top: 15px;
-  width: 100%;
-}
-
-.fblink span {
-  font-size: 18px;
-  color: #211897;
-  margin-right: 5px;
-}
-
-.fblink a {
-  text-decoration: none;
-  font-weight: bold;
-  color: #211897;
-}
-
 .forget-id {
   margin: 15px;
 }
